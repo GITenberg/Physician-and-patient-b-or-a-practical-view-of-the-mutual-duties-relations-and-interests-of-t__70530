@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '55786'
     url: http://www.gutenberg.org/2009/agents/55786
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Harrison_Burder
+covers:
+- cover_type: archival
+  image_path: 70530-h/images/cover.jpg
 creator:
   author:
     agent_name: Hooker, Worthington
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47118
     wikipedia: https://en.wikipedia.org/wiki/Worthington_Hooker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70530#Physician-and-patient-b-or-a-practical-view-of-the-mutual-duties-relations-and-interests-of-t_
 gutenberg_issued: '2023-04-11'
 identifiers:
   gutenberg: '70530'
